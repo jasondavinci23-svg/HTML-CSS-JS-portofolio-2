@@ -8,7 +8,11 @@
 }
 body{
     font-family: "Poppins", sans-serif;
+   
+  background-color: #0a1a2f
 }
+
+
 html{
     scroll-behavior: smooth;
 
@@ -139,9 +143,10 @@ a, .btn {
       height: 80vh;
    }
    .section_pic-container{
+   
       display: flex;
-      height: 400px;
-      width: 400px;
+      height: 100px;
+      width: 100px;
       margin: auto 0;
    }
    
